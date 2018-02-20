@@ -1,0 +1,21 @@
+{
+  "name": "announcement-bot",
+  "version": "1.0.0",
+  "description": "telegram announcement bot for various signals",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "telegram",
+    "announcement",
+    "signals"
+  ],
+  "author": "@CryptonianE",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
