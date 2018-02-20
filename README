@@ -1,5 +1,13 @@
-# BOT ID
+## GUIDE FOR SET-UP
+https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/
+https://docs.npmjs.com/getting-started/installing-node
+https://github.com/creationix/nvm/blob/master/README.md#installation
+
+# BOT ID:
 t.me/cryptoniane_announcement_v1_bot
 
-# API TOKEN FOR HTTP ACCESS
+# API TOKEN FOR HTTP ACCESS:
 433820043:AAHNQ60nu0IqOYYYnUpxR_KmwcRVfDxIRdY
+
+# DEPLOYED BY "now" on remote web:
+https://announcement-bot-yncjxuhpwz.now.sh
